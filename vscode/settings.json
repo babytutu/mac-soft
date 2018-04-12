@@ -129,4 +129,11 @@
   "gitlens.keymap": "alternate",
   "explorer.confirmDelete": false,
   "git.enableSmartCommit": true,
+  "files.associations": {
+    "*.wpy": "vue"
+  },
+  "path-intellisense.mappings": {
+    "/": "${workspaceRoot}",
+    "src": "${workspaceRoot}/src",
+  }
 }

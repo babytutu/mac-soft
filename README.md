@@ -117,3 +117,41 @@ Fix it
 ```
 sudo chown -R $(whoami) /usr/local/share
 ```
+
+## oh-my-zsh
+
+```bash
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+mirror in mainland China
+
+```bash
+sh -c "$(wget -O- https://gitee.com/mcornella/ohmyzsh/raw/master/tools/install.sh)"
+```
+
+### Error
+
+#### Error
+
+```
+Insecure completion-dependent directories detected:
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+```
+
+To fix your permissions，set the variable ZSH_DISABLE_COMPFIX to "true"
+
+```bash
+nano ~/.zshrc
+```
+
+```
+ZSH_DISABLE_COMPFIX="true"
+```
+
+Reload Setting
+
+```bash
+source .zshrc
+```

@@ -7,18 +7,13 @@
 | Node.js | JavaScript Runtime Built | [Official Website](https://nodejs.org/en/) |
 | Git | Version Control System | [Official Website](https://git-scm.com/) |
 | Sourcetree | Git GUI | [Official Website](https://www.sourcetreeapp.com/) |
-| Alfred | Boosts Your Efficiency | [Official Website](https://www.alfredapp.com/) |
-| ShadowsocksX-NG | Proxy | [Github](https://github.com/shadowsocks/ShadowsocksX-NG) |
-| shadowsocks-android | Proxy | [Github](https://github.com/shadowsocks/shadowsocks-android)|
 | Charles | Official Website Debugging Proxy | [Official Website](https://www.charlesproxy.com/)  |
-| Carbon copy cloner | Backup Soft| [Official Website](https://bombich.com/) |
 | Magnet | Window manager | [Official Website](http://magnet.crowdcafe.com/) |
 | NTFS_for_Mac | Paragon Driver（Seagate） | [Download](https://www.seagate.com/cn/zh/support/software/paragon/)|
 | Typora | Markdown Editor | [Official Website](https://www.typora.io/) |
 | Dash | API Documentation Browser | [Official Website](https://kapeli.com/dash) |
 | Linphone | SIP Soft | [Official Website](http://www.linphone.org/) |
 | Zoiper |SIP Soft | [Official Website](https://www.zoiper.com/) |
-
 
 ## Key
 
@@ -27,13 +22,6 @@
 ```
 Registered Name:https: //zhile.io
 License Key: 48891cf209c6d32bf4
-```
-
-### Axure RP 8
-
-```
-License：zdfans.com
-Key：gP5uuK2gH+iIVO3YFZwoKyxAdHpXRGNnZWN8Obntqv7++FF3pAz7dTu8B61ySxli
 ```
 
 ### Axure RP 9
@@ -62,3 +50,26 @@ Licensee: speedzodiac
 Key: UpzmG6yPo/QyZbu4vhiNe5+Oy9U57YGqW6hglQC1B2uF1eHScD70uAHbZ+Gza0tf
 ```
 
+
+
+## VScode Plugins
+
+- GitLens
+
+- Git Project Manager
+
+- One Dark Pro
+
+- Path Intellisense
+
+- vetur
+
+- vscode-icons
+
+- volar
+
+
+
+## V2rayU
+
+https://v2.itlao5.com/v2

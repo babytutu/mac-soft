@@ -70,6 +70,50 @@ Key: UpzmG6yPo/QyZbu4vhiNe5+Oy9U57YGqW6hglQC1B2uF1eHScD70uAHbZ+Gza0tf
 
 
 
-## V2rayU
+## V2rayU Subscribe URL
 
 https://v2.itlao5.com/v2
+
+
+## Office Download URL
+
+### Office 2019
+https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_Installer.pkg
+
+
+### Office 2021
+https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.62.22061100_Installer.pkg
+
+### Office_License_Removal
+
+https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_License_Removal_2.6.pkg
+
+
+## Homebrew
+
+```bash
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+```
+
+### Install App
+
+e.g.
+
+```
+brew install tree
+```
+
+### Error
+
+```
+Error: The following directories are not writable by your user:
+/usr/local/share/doc
+/usr/local/share/man
+/usr/local/share/man/man1
+```
+
+Fix it
+
+```
+sudo chown -R $(whoami) /usr/local/share
+```

@@ -36,13 +36,10 @@ Pro edition:
 Licensee: speedzodiac
 Key: aPPDTWFbeBCDl3pdgeOQB15Z4CUGy3JDsQPktJ+/dVQRNmwTmsJZEDlslIyTVJ03
 
-
 Team edition:
 
 Licensee: speedzodiac
 Key: o6hDTBsTUOCg4+iSPfjL8QkM73kG+oHYiXWjEEyNGJ6JdPimk7c6Sy9fQDm8KXNc
-
-
 
 Enterprise edition:
 
@@ -50,36 +47,24 @@ Licensee: speedzodiac
 Key: UpzmG6yPo/QyZbu4vhiNe5+Oy9U57YGqW6hglQC1B2uF1eHScD70uAHbZ+Gza0tf
 ```
 
-
-
 ## VScode Plugins
 
 - GitLens
-
 - Git Project Manager
-
 - One Dark Pro
-
 - Path Intellisense
-
 - vetur
-
 - vscode-icons
-
 - volar
-
-
 
 ## V2rayU Subscribe URL
 
 https://v2.itlao5.com/v2
 
-
 ## Office Download URL
 
 ### Office 2019
 https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_Installer.pkg
-
 
 ### Office 2021
 https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.62.22061100_Installer.pkg
@@ -88,16 +73,12 @@ https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F
 
 https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_License_Removal_2.6.pkg
 
-
 ## Homebrew
 
 ```bash
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+sh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 ```
-
 ### Install App
-
-e.g.
 
 ```
 brew install tree
@@ -127,12 +108,10 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 mirror in mainland China
 
 ```bash
-sh -c "$(wget -O- https://gitee.com/mcornella/ohmyzsh/raw/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://gitee.com/mcornella/ohmyzsh/raw/master/tools/install.sh)"
 ```
 
 ### Error
-
-#### Error
 
 ```
 Insecure completion-dependent directories detected:
@@ -145,6 +124,8 @@ To fix your permissions，set the variable ZSH_DISABLE_COMPFIX to "true"
 ```bash
 nano ~/.zshrc
 ```
+
+Add frist line
 
 ```
 ZSH_DISABLE_COMPFIX="true"

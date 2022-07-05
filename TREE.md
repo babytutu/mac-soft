@@ -14,7 +14,7 @@
 │   ├── Microsoft_Office_2016_VL_Serializer_2.0.pkg
 │   └── microsoft_office_ltsc_2021_vl_serializer.pkg
 ├── others
-│   ├── Magnet v2.1.0.dmg
+│   ├── Magnet 2.9.0.dmg
 │   ├── PDF Expert 2.5.18 MAS [TNT].dmg
 │   ├── Panda@1.1.dmg
 │   ├── Typora 1.3.7 [TNT].dmg

@@ -19,8 +19,14 @@
 
 ### Charles
 
+Charles报错Failed to install helper CFErrorDomainLaunchd error 9解决方案
+
+1. 输入 launchctl print-disabled system 回车后查看com.xk72.charles.ProxyHelper，如果是true，执行2
+2. 输入 sudo launchctl enable system/com.xk72.charles.ProxyHelper，按回车，然后正确输入系统密码即可，执行3
+3. 重启Charles
+
 ```
-Registered Name:https: //zhile.io
+Registered Name:https://zhile.io
 License Key: 48891cf209c6d32bf4
 ```
 

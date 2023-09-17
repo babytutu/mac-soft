@@ -1,9 +1,6 @@
 {
   "name": "mac-soft",
   "version": "1.0.0",
-  "scripts": {
-    "tree": "tree -N -L 2  > TREE.md"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/babytutu/mac-soft.git"

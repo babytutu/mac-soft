@@ -2,19 +2,16 @@
 
 | Name | Desc | Links |
 | -------- | ------------------ | ----------------------------------- |
-| Visual Studio Code | Coding Editor | [Official Website](https://code.visualstudio.com/) |
-| Oh-My-Zsh | Terminal | [Official Website](http://ohmyz.sh/)  |
-| Node.js | JavaScript Runtime Built | [Official Website](https://nodejs.org/en/) |
-| Git | Version Control System | [Official Website](https://git-scm.com/) |
-| Sourcetree | Git GUI | [Official Website](https://www.sourcetreeapp.com/) |
-| Charles | Official Website Debugging Proxy | [Official Website](https://www.charlesproxy.com/)  |
-| Magnet | Window manager | [Official Website](http://magnet.crowdcafe.com/) |
-| NTFS_for_Mac | Paragon Driver（Seagate） | [Download](https://www.seagate.com/cn/zh/support/software/paragon/)|
-| Typora | Markdown Editor | [Official Website](https://www.typora.io/) |
-| Dash | API Documentation Browser | [Official Website](https://kapeli.com/dash) |
-| Linphone | SIP Soft | [Official Website](http://www.linphone.org/) |
-| Zoiper |SIP Soft | [Official Website](https://www.zoiper.com/) |
-
+| Visual Studio Code | Coding Editor |https://code.visualstudio.com/|
+| Oh-My-Zsh | Terminal | http://ohmyz.sh/  |
+| Node.js | JavaScript Runtime Built | https://nodejs.org/en/|
+| Git | Version Control System | https://git-scm.com/|
+| Sourcetree | Git GUI | https://www.sourcetreeapp.com/ |
+| Charles | Official Website Debugging Proxy | https://www.charlesproxy.com/ |
+| Rectangle | Move and resize windows | https://rectangleapp.com |
+| Typora | Markdown Editor | https://www.typora.io |
+| Dash | API Documentation Browser | https://kapeli.com/dash |
+|AppCleaner|Uninstall Apps|https://freemacsoft.net/appcleaner/|
 ## Key
 
 ### Charles
@@ -53,15 +50,7 @@ Licensee: speedzodiac
 Key: UpzmG6yPo/QyZbu4vhiNe5+Oy9U57YGqW6hglQC1B2uF1eHScD70uAHbZ+Gza0tf
 ```
 
-## VScode Plugins
 
-- GitLens
-- Git Project Manager
-- One Dark Pro
-- Path Intellisense
-- vetur
-- vscode-icons
-- volar
 
 ## V2rayU Subscribe URL
 
